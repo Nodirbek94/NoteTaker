@@ -7,7 +7,7 @@ const fs = require("fs");
 // Sets up the express App
 // =====================================================
 const app = express();
-const port = process.eventNames.PORT || 8080;
+const port = process.env.PORT || 3000;
 const mainDir = path.join(__dirname, "/public");
 
 // Sets up the Express App to handle data parsing
