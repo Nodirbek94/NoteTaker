@@ -22,6 +22,8 @@ The application will be deployed to Heroku and anyon with the deployed link can 
 ## Usage
 It can be used to create notes and save them or you can delate the old notes
 
+## Deployed Link
+https://agile-oasis-44596.herokuapp.com/
 
 ## License
 Notice: This is licensed under MIT.
