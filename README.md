@@ -15,6 +15,9 @@ This application can be used to write, save and delate notes. Front end of the a
 ## Installation
 The application will be deployed to Heroku and anyon with the deployed link can use the application
 
+## Screenshots
+<img src="./assets/Screen%20Shot%202020-10-01%20at%203.27.31%20PM.png">
+<img src="./assets/Screen%20Shot%202020-10-01%20at%203.28.28%20PM.png">
 
 ## Usage
 It can be used to create notes and save them or you can delate the old notes
@@ -34,5 +37,5 @@ Application was tested using NPM and was run through the local host
 
 
 ## Questions
-Questions about this repository? Please contact me at [nodirbekmaksudov@gmail.com](mailto:nodirbekmaksudov@gmail.com). View more of my work in GitHub at [undefined](https://github.com/undefined) 
+Questions about this repository? Please contact me at [nodirbekmaksudov@gmail.com](mailto:nodirbekmaksudov@gmail.com). View more of my work in GitHub at [https://github.com/Nodirbek94](https://github.com/Nodirbek94) 
 
